@@ -1,0 +1,9 @@
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\bin\Debug\netcoreapp3.1\OefeningBlogEF.Models.deps.json
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\bin\Debug\netcoreapp3.1\OefeningBlogEF.Models.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\bin\Debug\netcoreapp3.1\OefeningBlogEF.Models.pdb
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.csprojAssemblyReference.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.AssemblyInfoInputs.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.AssemblyInfo.cs
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.csproj.CoreCompileInputs.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Models\obj\Debug\netcoreapp3.1\OefeningBlogEF.Models.pdb

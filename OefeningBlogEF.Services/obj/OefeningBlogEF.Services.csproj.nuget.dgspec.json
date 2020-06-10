@@ -1,0 +1,236 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Services\\OefeningBlogEF.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj",
+        "projectName": "OefeningBlogEF.Entities",
+        "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj",
+        "packagesPath": "C:\\Users\\lucaspauwels\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucaspauwels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20220.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20220.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\OefeningBlogEF.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\OefeningBlogEF.Infrastructure.csproj",
+        "projectName": "OefeningBlogEF.Infrastructure",
+        "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\OefeningBlogEF.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\lucaspauwels\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucaspauwels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj": {
+                "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20220.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0-preview.4.20220.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Services\\OefeningBlogEF.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Services\\OefeningBlogEF.Services.csproj",
+        "projectName": "OefeningBlogEF.Services",
+        "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Services\\OefeningBlogEF.Services.csproj",
+        "packagesPath": "C:\\Users\\lucaspauwels\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\lucaspauwels\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj": {
+                "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Entities\\OefeningBlogEF.Entities.csproj"
+              },
+              "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\OefeningBlogEF.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\lucaspauwels\\RiderProjects\\OefeningBlogEF\\OefeningBlogEF.Infrastructure\\OefeningBlogEF.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.2, 3.1.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

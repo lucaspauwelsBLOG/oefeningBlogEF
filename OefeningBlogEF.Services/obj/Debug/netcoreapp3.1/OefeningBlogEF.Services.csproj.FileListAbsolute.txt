@@ -1,0 +1,14 @@
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Services.deps.json
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Services.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Services.pdb
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Entities.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Infrastructure.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Entities.pdb
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\bin\Debug\netcoreapp3.1\OefeningBlogEF.Infrastructure.pdb
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.csprojAssemblyReference.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.AssemblyInfoInputs.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.AssemblyInfo.cs
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.csproj.CoreCompileInputs.cache
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.csproj.CopyComplete
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.dll
+C:\Users\lucaspauwels\RiderProjects\OefeningBlogEF\OefeningBlogEF.Services\obj\Debug\netcoreapp3.1\OefeningBlogEF.Services.pdb
